@@ -2,3 +2,4 @@ __pycache__/
 SpVenv/
 .env
 yandexmusic_link_full.py
+.DS_Store
